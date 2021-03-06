@@ -1,0 +1,51 @@
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+Sun
+grep -c Sun logfile.txt
+Mon
+grep -c Mon logfile.txt
+Tue
+grep -c Tue logfile.txt
+Wed
+grep -c Wed logfile.txt
+Thu
+grep -c Thu logfile.txt
+Fri
+grep -c Fri logfile.txt
+Sat
+grep -c Sat logfile.txt
+Sun
+0
+Mon
+2
+Tue
+0
+Wed
+0
+Thu
+0
+Fri
+0
+Sat
+0
